@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+
+#learning
+{
+	background: ghostwhite; 
+	width: 700px; 
+	float: left; 
+}
+
+#learningheader
+{
+	background: yellow; 
+	margin: 20px; 
+}
+
+.litem
+{
+	margin:25px 50px 25px;
+	height: 100px; 
+}
+.lcname
+{
+	float: left; 
+	margin:25px 50px 25px;
+	width: 500px; 
+}
+

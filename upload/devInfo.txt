@@ -1,0 +1,11 @@
+dev site
+
+u: cody.hillyard@lenovoemc.com
+p: Lenovoemc1
+
+SSH into dev
+
+u: hillyc
+p: Welcome1!
+
+

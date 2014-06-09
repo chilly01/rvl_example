@@ -1,0 +1,41 @@
+Things I need to do 
+	Last week summery for Teresa
+	Integrate in Friday's fixes into code
+	Plan out rest of site rebuild
+	finish a few items of action plan
+	
+	Monday - spent most that day setting up the code igniter framework
+	Tuesday - Work on the login, user tracking, basic site functions
+	Wednesday - Got basic add new RMA working 
+	Thursday - Clean up on validations, meeting with user group.
+	Friday - work on site mobility, calendar functions, jquery settings
+	
+	
+Issues with pages 	
+	Login -
+		what do I do about new users, 
+		what about using the new table instead of the existing one	
+	Home -
+		I want to add in a message system, to verify that users have seen and interacted with the message 
+		Change the logo, and the icon	
+	Search Results - 
+		Right now I am just doing the easiest of searching (need other searches) 
+		Need to make filter by date work banner work
+		Need to get convert to csv working
+		Need to add link to edit single (by rma#)		
+	Create RMA
+		Validation rules set into the site
+		auto-populate the item name and description (need to find that function)
+		make the "add more" button work properly	
+		
+Pages Still needed: 
+	Learning center
+	Software Repository
+	Edit RMA Screen (single edit)
+	User Info Screen 
+	Admin Screen 	
+	
+Documentation
+
+
+	
